@@ -5,7 +5,7 @@ import openai
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'mi_token_de_verificacion'
-ACCESS_TOKEN = 'token_de_instagram'
+ACCESS_TOKEN = 'IGAAO5z0RsQkxBZAE9nbVlRaFNCTzhURkpydzZA4NXZAEcGwxZA1hXcHRCOVlJUjhHWjFkeGdtRmltSFBLbmR5ZAURNbm5SVHZALMkdtSjQwSl9URjhpRkhLQzhBVVhGMzJ3cGF6UzFjLW9IQ3Q3Y3ZARMG9KN210bjJsQlZAHU3lUWll2TQZDZD'
 OPENAI_KEY = 'tu_clave_openai'
 
 openai.api_key = OPENAI_KEY
